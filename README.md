@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. I'm very passionate about AI, software engineering, and physics ✨🪐
+My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. 
+
+<img width="892" height="595" alt="image" src="https://github.com/user-attachments/assets/0e29ac35-8ef4-4f51-908f-adc0a866aefe" />
+
+
+Background photo: <a href="https://unsplash.com/it/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> su <a href="https://unsplash.com/it/foto/foto-di-outer-space-Q1p7bh3SHj8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
 
 📫 How to reach me:
 
@@ -8,7 +14,8 @@ My name is Simone De Gasperis and I'm a data scientist and computer vision engin
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" />
 </a>
 
-🤖 I also have a small channel about AI and python:
+🤖 I also have a small youtube channel about AI and python:
+
 <a href="https://www.youtube.com/@enomis9478" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" />
 </a>
