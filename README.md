@@ -2,7 +2,9 @@
 
 My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. 
 
-<img width="892" height="595" alt="image" src="https://github.com/user-attachments/assets/0e29ac35-8ef4-4f51-908f-adc0a866aefe" />
+
+<img width="960" height="540" alt="github intro" src="https://github.com/user-attachments/assets/cd9f2b11-db43-4afa-a151-4ed621bd11bf" />
+
 
 
 Background photo: <a href="https://unsplash.com/it/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> su <a href="https://unsplash.com/it/foto/foto-di-outer-space-Q1p7bh3SHj8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
