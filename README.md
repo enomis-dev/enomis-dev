@@ -2,7 +2,7 @@
 
 My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. I'm very passionate about AI, software engineering, and physics ✨🪐
 
-- 📫 How to reach me:
+📫 How to reach me:
 - www.linkedin.com/in/simone-de-gasperis-05b34416a
 
 
