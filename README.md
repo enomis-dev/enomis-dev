@@ -8,10 +8,12 @@ My name is Simone De Gasperis and I'm a data scientist and computer vision engin
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" />
 </a>
 
-
+🤖 I also have a small channel about AI and python:
 <a href="https://www.youtube.com/@enomis9478" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" />
 </a>
+
+- Github repo: https://github.com/enomis-dev/YouTube
 
 <!--
 **enomis-dev/enomis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
