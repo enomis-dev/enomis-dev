@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. I'm very passionate about AI, software engineering, and physics ✨🪐
+
+- 📫 How to reach me:
+- www.linkedin.com/in/simone-de-gasperis-05b34416a
+
+
 <!--
 **enomis-dev/enomis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
