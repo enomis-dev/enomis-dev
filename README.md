@@ -5,7 +5,12 @@ My name is Simone De Gasperis and I'm a data scientist and computer vision engin
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/simone-de-gasperis-05b34416a" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="120" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" />
+</a>
+
+
+<a href="https://www.youtube.com/@enomis9478" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="50" />
 </a>
 
 <!--
