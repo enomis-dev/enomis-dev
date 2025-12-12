@@ -3,8 +3,10 @@
 My name is Simone De Gasperis and I'm a data scientist and computer vision engineer. I'm very passionate about AI, software engineering, and physics ✨🪐
 
 📫 How to reach me:
-- www.linkedin.com/in/simone-de-gasperis-05b34416a
 
+<a href="https://www.linkedin.com/in/simone-de-gasperis-05b34416a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="120" />
+</a>
 
 <!--
 **enomis-dev/enomis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
