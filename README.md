@@ -7,7 +7,7 @@ My name is Simone De Gasperis and I'm a data scientist and computer vision engin
 
 
 
-Background photo: <a href="https://unsplash.com/it/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> su <a href="https://unsplash.com/it/foto/foto-di-outer-space-Q1p7bh3SHj8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Background photo: <a href="https://unsplash.com/it/@nasa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NASA</a> on <a href="https://unsplash.com/it/foto/foto-di-outer-space-Q1p7bh3SHj8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
 
 📫 How to reach me:
